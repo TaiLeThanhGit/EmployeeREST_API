@@ -1,4 +1,5 @@
 ## This is a simple REST API with Gorilla Mux.
+>##Everything should be made as simple as possible
 
 ## Installation
 Install the dependencies Mux by the following command:
@@ -18,11 +19,11 @@ go run main.go true
 ## Get a list of employees
 ![](https://github.com/TaiLeThanhGit/EmployeeREST_API/blob/master/readme_images/get_employee_list.png)
 
-## Get one employee by Id
+## Get single employee by Id
 ![](https://github.com/TaiLeThanhGit/EmployeeREST_API/blob/master/readme_images/get_employee_by_id.png)
 
-## Update a employee by Id
+## Update single employee by Id
 ![](https://github.com/TaiLeThanhGit/EmployeeREST_API/blob/master/readme_images/update_employee.png)
 
-## Delete a employee by Id
+## Delete single employee by Id
 ![](https://github.com/TaiLeThanhGit/EmployeeREST_API/blob/master/readme_images/delete_employee.png)
