@@ -1,5 +1,5 @@
 ```sh
-Everything should be made as simple as possible, but not simpler (Einstein )
+Everything should be made as simple as possible (Albert Einstein)
 ```
 
 ## This is a simple REST API with Gorilla Mux.
