@@ -1,5 +1,8 @@
+```sh
+Everything should be made as simple as possible, but not simpler (Einstein )
+```
+
 ## This is a simple REST API with Gorilla Mux.
-> Everything should be made as simple as possible
 
 ## Installation
 Install the dependencies Mux by the following command:
